@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="12" height="24" viewBox="0 0 18.48 55.14" >
+      <g id="图层_2" data-name="图层 2">
+        <g id="图层_1-2" data-name="图层 1">
+          <line style="
+    stroke: #000;
+    stroke-linecap: square;
+    stroke-width: 1.92px;
+    stroke-miterlimit: 10;
+      fill : red; opacity : undefined; fill-opacity : undefined" x1="17.24" y1="0.96" x2="9.24" y2="0.96"></line>
+          <line style="
+    stroke: #000;
+    stroke-linecap: square;
+    stroke-width: 1.92px;
+    stroke-miterlimit: 10;
+      fill : red; opacity : undefined; fill-opacity : undefined" x1="9.24" y1="0.96" x2="9.24" y2="15.96"></line>
+          <polygon style="
+    stroke: #000;
+    stroke-miterlimit: 10;
+    stroke-linecap: round;
+    stroke-width: 1.98px;
+      fill : red; opacity : undefined; fill-opacity : undefined" points="17.49 54.15 0.99 54.15 0.99 22.35 9.24 15.65 17.49 22.35 17.49 54.15"></polygon>
+        </g>
+      </g>
+    </svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="12" height="20" viewBox="0 0 22.655 40.216">
+    <g transform="translate(-20149.595 -10363.793)">
+        <line style="
+      stroke: #000;
+      stroke-linecap: square;
+      stroke-width: 1.92px;
+      stroke-miterlimit: 10;
+        fill : red; opacity : undefined; fill-opacity : undefined" class="a" x1="11.906" transform="translate(20159.594 10365.067)"></line>
+        <path style="
+      stroke: #000;
+      stroke-miterlimit: 10;
+      stroke-linecap: round;
+      stroke-width: 1.98px;
+        fill : red; opacity : undefined; fill-opacity : undefined" class="b" d="M671.149,627.737h-16.5v-31.8l8.25-6.7,8.25,6.7Z" transform="translate(19495.695 9775.521)"></path>
+    </g>
+</svg>
